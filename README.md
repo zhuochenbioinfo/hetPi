@@ -11,11 +11,13 @@ For a bi-allelic diploid SNP, the genetic distance of two samples carring two di
 
 # Usage:
 
+This program treat bi-allelic, diploid SNPs only.
+
 The typical usage is:
 
 `perl hetPi.pl --vcf in.vcf --out out.hetpi`
 
-For additional variant filteration and window settings, please check the usage in the scripts or just run:
+For additional sample or variant filteration and window settings, please check the usage in the scripts or just run:
 
 `perl hetPi.pl`
 
