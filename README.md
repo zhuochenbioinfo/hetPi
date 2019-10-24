@@ -7,7 +7,7 @@ By Zhuo CHEN, contact: chenomics@163.com or zhuochen@genetics.ac.cn
 
 In some plants, heterozygous genotypes can be stably present due to asexual reproduction (Such as grafting). Here I introduce a modified Pi estimate, hetPi, that treat heterozygous situation as an intermediate genotype. This estimate is based on [necleotide diversity π](https://doi.org/10.1073/pnas.76.10.5269) introduced by Nei and Li in 1979.
 
-For a bi-allelic diploid SNP, the genetic distance between two samples carrying two different homozygous genotypes on an SNP is set as 1. The distance between a sample carrying heterozygous genotype and a sample carrying any of the homozygous genotype is set as 0.5. The distance of two samples carrying the same genotype, no matter homozygous or heterozygous, is zero.
+For a bi-allelic diploid SNP, the genetic distance between two samples carrying two different homozygous genotypes is set as 1. The distance between a sample carrying heterozygous genotype and a sample carrying any of the homozygous genotypes is set as 0.5. The distance of two samples carrying the same genotype, no matter homozygous or heterozygous, is zero.
 
 # Usage:
 
