@@ -23,4 +23,6 @@ For additional sample or variant filteration and window settings, please check t
 
 # Reference:
 
+Nei, M. and W. H. Li (1979). "Mathematical model for studying genetic variation in terms of restriction endonucleases." Proc. Natl. Acad. Sci. U. S. A. 76(10): 5269-5273.
+
 Wikipedia. https://en.wikipedia.org/wiki/Nucleotide_diversity
