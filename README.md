@@ -1,7 +1,7 @@
 # hetPi
 Nucleotide diversity estimation using VCF input with special treatment for heterozygous genotypes
 
-By Zhuo CHEN, contact: chenomics@163.com or zhuochen@genetics.ac.cn
+By Zhuo CHEN, contact: chenomics@163.com or zhuochen@fafu.edu.cn
 
 # Motivation:
 
